@@ -5,3 +5,9 @@ All used packages can be found in './requirements.txt', however the used package
 
 # # Exercise 1
 For exercise 1 it is needed to install the 'regular experession' package. This package is used to extract the provided strings. 
+
+# # Exercise 2
+For exercise 2 it is needed to install the 'collections' package. This package is to make sure the function can be used with any object that contains the same structure
+
+# # Exercise 3
+For exercise 3 it is needed to install the 'collections' package. This package is to make sure the function can be used with any object that contains the same structure
