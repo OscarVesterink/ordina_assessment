@@ -1,6 +1,7 @@
 # ordina_assesmment
 A small project for my application at Ordina
 
+The exercises can be found in the folder './exercises/'
 All used packages can be found in './requirements.txt', however the used packages per exercise can be found down below along with possible additional notes.
 
 # # Exercise 1
